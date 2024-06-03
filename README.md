@@ -1,10 +1,11 @@
-# Cloud-Computing
+# Cloud Computing
 This project is a cloud computing application deployed on Microsoft Azure. It leverages Azure's robust cloud services to provide describe the main functionality of This project is a cloud computing application deployed on Microsoft Azure. It leverages Azure's robust cloud services to provide [describe the main functionality of your application, e.g., a web app, data processing pipeline, IoT solution, etc.]. The project demonstrates how to use various Azure services such as Azure App Service, Azure Functions, Azure Storage, and Azure SQL Database.
 
-Internship Experience
+# Internship Experience
 
 During my internship, I learned various technologies and practices used in the corporate world on a daily basis. This experience enhanced my skills and prepared me to face various challenges. Over the course of two months, I was assigned an industrial project consisting of four main tasks:
 
+# Project Details
 Task 1: Azure Virtual Machine
 
 Objective: Create an Ubuntu VM, install a GUI on it, and connect to it using RDP.
