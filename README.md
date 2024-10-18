@@ -5,6 +5,8 @@ This project is a cloud computing application deployed on Microsoft Azure. It le
 
 During my internship, I learned various technologies and practices used in the corporate world on a daily basis. This experience enhanced my skills and prepared me to face various challenges. Over the course of two months, I was assigned an industrial project consisting of four main tasks:
 
+# Project link 🖇️ 
+- https://docs.google.com/presentation/d/1FRQPi3hN1PV66Eu5S1zRJl9GBGvGsRfo/edit?usp=drivesdk&ouid=100047511799510125410&rtpof=true&sd=true
 # Project Details
 Task 1: Azure Virtual Machine
 
